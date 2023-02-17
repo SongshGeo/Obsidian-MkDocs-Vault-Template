@@ -8,6 +8,8 @@
     "site",
     "tests",
     "tmp",
-    "logs"
+    "logs",
+    "plugins",
+    "src"
   ]
 }
