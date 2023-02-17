@@ -132,3 +132,4 @@ dmypy.json
 # pyproject.toml
 
 workspace*.json
+.obsidian
